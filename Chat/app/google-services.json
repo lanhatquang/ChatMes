@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1001967114169",
+    "firebase_url": "https://appchat-9da0b.firebaseio.com",
+    "project_id": "appchat-9da0b",
+    "storage_bucket": "appchat-9da0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001967114169:android:d16b1cab06adc7b7",
+        "android_client_info": {
+          "package_name": "com.uievent.exercise.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001967114169-5o9ngiifcq0fc2429ied6139oesg5h2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7aCe8VKm4BkuFrX2QreIKbgRFmgrFKD8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
